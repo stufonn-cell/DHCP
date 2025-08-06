@@ -1,3 +1,4 @@
+# Proyecto recuperado de mi cuenta anterior M4C4NO5 (Colaboradores: DanielC19)
 # Introducción
 
 Este proyecto comprende la codificación de un Servidor DHCP en el lenguaje de programación C. Contiene tanto el servidor como el cliente que se conecta a él, junto con un Makefile para hacer más ágil la compilación y ejecución de los programas.
